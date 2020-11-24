@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e614ea815898ca748af80fc2605b9409
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - caixaCerta: {instanceID: 0}
+  - muro1: {instanceID: 0}
+  - caixaCerta2: {instanceID: 0}
+  - muro2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
